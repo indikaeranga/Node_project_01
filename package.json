@@ -1,10 +1,10 @@
 {
   "name": "node_app",
   "version": "1.0.0",
-  "description": "",
+  "description": "my node applicatio",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node index.js"
   },
   "author": "",
   "license": "ISC"
